@@ -1,0 +1,31 @@
+﻿<Window x:Class="Week_4_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Week_4_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <!--Oluwasomi Omotayo-Benspn-->
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!--TextBlock-->
+        <TextBlock Name="txtBlock" Text="enter weight in  pounds only" Grid.Column="0" Grid.Row="0"/>
+        <TextBlock Name="txtBlock1" Text=" enter height in inches only" Grid.Column="0" Grid.Row="1"/>
+        <TextBox Name="txtBox" Text="" Grid.Column="1" Grid.Row="0"/>
+        <TextBox Name="txtBox1" Text="" Grid.Column="1" Grid.Row="1"/>
+        <Button Name="btnButton" Content="Click" Grid.Column="2" Grid.Row="1" Click="btnButton_Click"/>
+        <Label Name="lblOutput" Content="" Grid.Column="2" Grid.Row="2"/>
+
+    </Grid>
+</Window>

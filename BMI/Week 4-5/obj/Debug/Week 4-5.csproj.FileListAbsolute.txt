@@ -1,0 +1,31 @@
+G:\C# practice exercises\Week 4-5\Week 4-5\bin\Debug\Week 4-5.exe.config
+G:\C# practice exercises\Week 4-5\Week 4-5\bin\Debug\Week 4-5.exe
+G:\C# practice exercises\Week 4-5\Week 4-5\bin\Debug\Week 4-5.pdb
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\Week 4-5.csprojResolveAssemblyReference.cache
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\MainWindow.g.cs
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\App.g.cs
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\Week 4-5_MarkupCompile.cache
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\Week 4-5_MarkupCompile.lref
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\MainWindow.baml
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\Week 4-5.g.resources
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\Week_4_5.Properties.Resources.resources
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\Week 4-5.csproj.GenerateResource.Cache
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\Week 4-5.exe
+G:\C# practice exercises\Week 4-5\Week 4-5\obj\Debug\Week 4-5.pdb
+\\FS04D\Stu4\Home\Oomotayobenson6276\C# practice exercises\week 4C# assignments\Week 4-5\Week 4-5\bin\Debug\Week 4-5.exe.config
+\\FS04D\Stu4\Home\Oomotayobenson6276\C# practice exercises\week 4C# assignments\Week 4-5\Week 4-5\obj\Debug\Week 4-5.exe
+\\FS04D\Stu4\Home\Oomotayobenson6276\C# practice exercises\week 4C# assignments\Week 4-5\Week 4-5\obj\Debug\Week 4-5.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\bin\Debug\Week 4-5.exe.config
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\Week 4-5.exe
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\Week 4-5.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\bin\Debug\Week 4-5.exe
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\bin\Debug\Week 4-5.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\Week 4-5.csprojResolveAssemblyReference.cache
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\MainWindow.g.cs
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\App.g.cs
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\Week 4-5_MarkupCompile.cache
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\Week 4-5_MarkupCompile.lref
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\MainWindow.baml
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\Week 4-5.g.resources
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\Week_4_5.Properties.Resources.resources
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\BMI\Week 4-5\obj\Debug\Week 4-5.csproj.GenerateResource.Cache
